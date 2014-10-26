@@ -1,4 +1,40 @@
 1. Afisati toate sufixele unui cuvant dat
+
 2. Eliminati litera de pe pozitia i dintr-un cuvant dat
+
 3. Eliminati toate cifrele dintr-un sir dat
+
 4. Numarati in cate cuvinte apare un caracter dat.
+
+5. Se citeste un cuvant de cel mult 20 de caractere. Sa se transforme toate vocalele din 
+litera mica in litera mare corespunzatoare.
+
+6. Scrieti un program care inlocuieste intr-un text toate aparitiile unei litere cu o alta litera.
+
+7. Scrieti un program care inlocuieste prima litera a fiecarui cuvant dintr-un text dat cu majuscula corespunzatoare.
+
+8. Scrieti un program care citeste de la tastatura un text si determina transformarea acestuia prin eliminarea numai a
+ultimei consoane din text.
+
+9. Scrieti un program care citeste de la tastatura doua siruri de caractere si afiseaza cel mai 
+lung sufix comun al celor doua siruri. De exemplu, daca a : marina si b: elena, se va afisa 'na'
+
+10. Verificati daca un text de maxim 100 de caracatere este palindrom. Ex. cojoc este palindrom.
+
+11. Un sir de caracatere s2 se numeste clona a sirului s1 daca se obtine din s1 prin eliminarea tuturor aparitiilor 
+unei singure vocale. Determinati pentru un cuvant dat toate clonele sale. De exemplu, pentru cuvantul infomratica ar 
+trebui sa se afiseze, nu neaparat in aceasta ordine, sirurile:nformatca, infrmatica, informtic
+
+12. Scrieţi un programcare citeşte de la tastatură două caractere c1 şi c2 , şi un text având cel mult 250
+caractere (spaţii şi litere ale alfabetului englez), pe care îl modifică înlocuind toate apariţiile caracterului
+memorat în c1 cu cel memorat în c2 şi toate apariţiile caracterului memorat în c2 cu cel memorat în c1.
+Programulafişează pe linii separate ale ecranului atât textul iniţial, cât şi textul obţinut după efectuarea
+înlocuirilor.
+
+Exemplu : dacă pentru c1 se citeşte a, pentru c2 se citeşte o iar textul citit este :
+hocus pocus preparatus  se va afişa :
+
+hocus pocus preparatus
+hacus pacus preporotus
+
+13. Determinati modificarea unui text prin transformarea in majuscula a ultimei si primei litere a fiecarui cuvant.
